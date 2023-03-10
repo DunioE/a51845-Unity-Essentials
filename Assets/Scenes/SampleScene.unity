@@ -954,6 +954,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 5dde9e23869207e4d83dbeda1fbb5a12, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  scaleChange: {x: 0.01, y: 0.01, z: 0.01}
 --- !u!1001 &557015597
 PrefabInstance:
   m_ObjectHideFlags: 0
