@@ -917,13 +917,33 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 7174930762842119714, guid: 9989ee734ba99074da315e8b9840f1e6, type: 3}
+      propertyPath: m_Material
+      value: 
+      objectReference: {fileID: 0}
     - target: {fileID: 7174930762842119715, guid: 9989ee734ba99074da315e8b9840f1e6, type: 3}
       propertyPath: m_Name
       value: BouncyBall 1 (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 7174930762842119741, guid: 9989ee734ba99074da315e8b9840f1e6, type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fefdbb76a93225d4fac56eee5183b097, type: 2}
     - target: {fileID: 7174930762842119743, guid: 9989ee734ba99074da315e8b9840f1e6, type: 3}
       propertyPath: m_RootOrder
       value: 7
+      objectReference: {fileID: 0}
+    - target: {fileID: 7174930762842119743, guid: 9989ee734ba99074da315e8b9840f1e6, type: 3}
+      propertyPath: m_LocalScale.x
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7174930762842119743, guid: 9989ee734ba99074da315e8b9840f1e6, type: 3}
+      propertyPath: m_LocalScale.y
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 7174930762842119743, guid: 9989ee734ba99074da315e8b9840f1e6, type: 3}
+      propertyPath: m_LocalScale.z
+      value: 3
       objectReference: {fileID: 0}
     - target: {fileID: 7174930762842119743, guid: 9989ee734ba99074da315e8b9840f1e6, type: 3}
       propertyPath: m_LocalPosition.x
@@ -935,7 +955,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7174930762842119743, guid: 9989ee734ba99074da315e8b9840f1e6, type: 3}
       propertyPath: m_LocalPosition.z
-      value: 6.6776505
+      value: 5.52
       objectReference: {fileID: 0}
     - target: {fileID: 7174930762842119743, guid: 9989ee734ba99074da315e8b9840f1e6, type: 3}
       propertyPath: m_LocalRotation.w
